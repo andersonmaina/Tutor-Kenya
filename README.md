@@ -9,44 +9,55 @@
 
 ## Overview
 
-**Tutor Kenya** is a production-ready mobile application built with **React Native (Expo)**.
+**Tutor Kenya** is a production-ready mobile application built with React Native (Expo).
 
-The platform connects peer tutors with students, making education more accessible and affordable while creating income opportunities for tutors.
+The platform connects peer tutors with students.
+
+It makes education more accessible and affordable.
+
+It also creates income opportunities for tutors.
 
 ---
 
 ## Problem Statement
 
-* Many children in Kenya lack access to affordable education.
-* Youth unemployment limits income opportunities.
+Many children in Kenya lack access to affordable education.
+
+Youth unemployment limits income opportunities.
 
 ---
 
 ## Solution
 
-Tutor Kenya bridges the gap by:
+Tutor Kenya bridges this gap by:
 
 * Enabling tutors to earn income through peer-to-peer teaching.
-* Providing students with affordable, accessible learning options.
-* Creating a localized, scalable education marketplace.
+* Providing students with affordable and accessible learning options.
+* Creating a localized and scalable education marketplace.
 
 ---
 
 ## Product Status
 
-* **Production Ready:** Yes
-* **Platform:** Mobile App (React Native - Expo)
-* **Android:** Ready
-* **iOS:** Pending (1-day deployment setup required)
-* **Google Play:** Not yet published
+**Production Ready:** Yes
+
+**Platform:** Mobile App (React Native – Expo)
+
+**Android:** Ready
+
+**iOS:** Pending (1-day deployment setup required)
+
+**Google Play:** Not yet published
 
 ---
 
 ## Monetization Model
 
-* Tutors subscribe (monthly or annually).
-* Payments processed via **M-Pesa**.
-* Verified tutors receive a **Blue Checkmark Badge** (similar to verification systems used on major social platforms).
+Tutors subscribe on a monthly or annual plan.
+
+Payments are processed via M-Pesa.
+
+Verified tutors receive a Blue Checkmark Badge (similar to verification systems used on major social platforms).
 
 ---
 
@@ -54,7 +65,7 @@ Tutor Kenya bridges the gap by:
 
 **Ideal Investment Amount:** KES 65,000
 
-**Allocation:**
+**Planned Allocation:**
 
 * VPS Hosting
 * Database & Production Infrastructure
@@ -65,12 +76,18 @@ Tutor Kenya bridges the gap by:
 
 ## Links
 
-* **Company/App Profile:** [https://tutorkenya.rf.gd](https://tutorkenya.rf.gd)
-* **Mobile App:** Available upon request (not yet on Google Play)
+**Company/App Profile:**
+[https://tutorkenya.rf.gd](https://tutorkenya.rf.gd)
+
+**Mobile App:**
+Available upon request (not yet on Google Play)
 
 ---
 
 ## Tags
 
-`#Education` `#Homeschooling` `#PeerLearning` `#EdTech` `#Kenya`
-
+#Education
+#Homeschooling
+#PeerLearning
+#EdTech
+#Kenya
