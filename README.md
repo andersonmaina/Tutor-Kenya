@@ -16,7 +16,7 @@ Many children in Kenya lack access to affordable education. At the same time, qu
 
 ## How it works
 
-Students find and book tutors through the app. Tutors set their own availability and earn directly through M-Pesa. Verified tutors can pay a monthly or annual subscription fee to receive a badge on their profile, signalling credibility — this is the current revenue model.
+Students finds tutors profile & contacts through the app. Tutors set their own delovery method, availability, subjects, location(optional), and earn directly through M-Pesa. Verified tutors can pay a monthly or annual subscription fee to receive a badge on their profile, signalling credibility — this is the current revenue model.
 
 ---
 
@@ -38,4 +38,4 @@ We are seeking **KES 65,000** in seed funding.
 **Anderson Maina**  
 Nyeri Town, Kenya  
 anderson.njoroge.maina@gmail.com  
-0702 861 379
++254702861379
