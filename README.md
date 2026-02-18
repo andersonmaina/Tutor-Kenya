@@ -8,13 +8,13 @@ A peer tutoring mobile app connecting students with tutors across Kenya. Student
 
 ---
 
-## The Problem
+## The problem
 
 Many children in Kenya lack access to affordable education. At the same time, qualified young people struggle to find work. Tutor Kenya addresses both by creating a marketplace for peer tutoring.
 
 ---
 
-## How It Works
+## How it works
 
 Students find and book tutors through the app. Tutors set their own availability and earn directly through M-Pesa. Verified tutors can pay a monthly or annual subscription fee to receive a badge on their profile, signalling credibility — this is the current revenue model.
 
@@ -26,7 +26,7 @@ We are seeking **KES 65,000** in seed funding.
 
 | Allocation | Details |
 |---|---|
-| Hosting | VPS setup |
+| Hosting | VPS & Web server setup |
 | iOS Development | Estimated 1-day build |
 | Infrastructure | Database and production costs |
 | Marketing | User acquisition |
