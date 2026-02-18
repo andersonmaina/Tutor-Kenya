@@ -1,4 +1,38 @@
 # Tutor Kenya
+#<pr>
+Name : Anderson Maina
+Email: anderson.njoroge.maina@gmail.com
+Phone: 0702861379
+
+Innovation name: Tutor Kenya
+
+Production ready: YES
+
+Innovation type: Mobile App(React Native Expo app)
+Android: Ready
+IOS: Not yet ready
+
+What does this solve ?: Education is not available for many children in Kenya and so is self employment opportunities, Tutor Kenya brings the two together.
+Tutors earn money. Children get easy access to cheap education through peers.
+
+Ideal investment amount: KES 65,000
+(Hosting(preferably VPS), IOS app development (1 day) ,Production cost(database, VPS), Marketing)
+
+Monetized: YES, Tutors pay a monthly or annual fee via Mpesa to get a blue checkmark badge(like X)
+
+County: Nyeri
+Town: Nyeri town
+
+Link to company/app profile: https://tutorkenya.rf.gd
+
+Link to app: See app below 👇 (not yet hosted on Google play)
+
+#homeschooling #education #peers
+
+
+
+</p>
+
 
 A peer tutoring mobile app connecting students with tutors across Kenya. Students get affordable access to education. Tutors earn income.
 
