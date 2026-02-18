@@ -1,93 +1,41 @@
 # Tutor Kenya
 
-**Founder:** Anderson Maina
-**Email:** [anderson.njoroge.maina@gmail.com](mailto:anderson.njoroge.maina@gmail.com)
-**Phone:** +254 702 861 379
-**Location:** Nyeri Town, Nyeri County, Kenya
+A peer tutoring mobile app connecting students with tutors across Kenya. Students get affordable access to education. Tutors earn income.
+
+**Platform:** Android (React Native / Expo) — iOS support in progress  
+**Status:** Production ready  
+**Website:** [tutorkenya.rf.gd](https://tutorkenya.rf.gd)
 
 ---
 
-## Overview
+## The Problem
 
-**Tutor Kenya** is a production-ready mobile application built with React Native (Expo).
-
-The platform connects peer tutors with students.
-
-It makes education more accessible and affordable.
-
-It also creates income opportunities for tutors.
+Many children in Kenya lack access to affordable education. At the same time, qualified young people struggle to find work. Tutor Kenya addresses both by creating a marketplace for peer tutoring.
 
 ---
 
-## Problem Statement
+## How It Works
 
-Many children in Kenya lack access to affordable education.
-
-Youth unemployment limits income opportunities.
+Students find and book tutors through the app. Tutors set their own availability and earn directly through M-Pesa. Verified tutors can pay a monthly or annual subscription fee to receive a badge on their profile, signalling credibility — this is the current revenue model.
 
 ---
 
-## Solution
+## Investment
 
-Tutor Kenya bridges this gap by:
+We are seeking **KES 65,000** in seed funding.
 
-* Enabling tutors to earn income through peer-to-peer teaching.
-* Providing students with affordable and accessible learning options.
-* Creating a localized and scalable education marketplace.
-
----
-
-## Product Status
-
-**Production Ready:** Yes
-
-**Platform:** Mobile App (React Native – Expo)
-
-**Android:** Ready
-
-**iOS:** Pending (1-day deployment setup required)
-
-**Google Play:** Not yet published
+| Allocation | Details |
+|---|---|
+| Hosting | VPS setup |
+| iOS Development | Estimated 1-day build |
+| Infrastructure | Database and production costs |
+| Marketing | User acquisition |
 
 ---
 
-## Monetization Model
+## Contact
 
-Tutors subscribe on a monthly or annual plan.
-
-Payments are processed via M-Pesa.
-
-Verified tutors receive a Blue Checkmark Badge (similar to verification systems used on major social platforms).
-
----
-
-## Investment Opportunity
-
-**Ideal Investment Amount:** KES 65,000
-
-**Planned Allocation:**
-
-* VPS Hosting
-* Database & Production Infrastructure
-* iOS App Deployment
-* Marketing & User Acquisition
-
----
-
-## Links
-
-**Company/App Profile:**
-[https://tutorkenya.rf.gd](https://tutorkenya.rf.gd)
-
-**Mobile App:**
-Available upon request (not yet on Google Play)
-
----
-
-## Tags
-
-#Education
-#Homeschooling
-#PeerLearning
-#EdTech
-#Kenya
+**Anderson Maina**  
+Nyeri Town, Kenya  
+anderson.njoroge.maina@gmail.com  
+0702 861 379
