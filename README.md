@@ -2,6 +2,8 @@
 
 A peer tutoring mobile app connecting students with tutors across Kenya. Students get affordable access to education. Tutors earn income.
 
+# App link : https://drive.google.com/file/d/1z6E0DZzfp_uNvhulX2szhHOzlnvKFuJ-/view?usp=drivesdk
+
 **Platform:** Android (React Native / Expo) — iOS support in progress  
 **Status:** Production ready  
 **Website:** [tutorkenya.rf.gd](https://tutorkenya.rf.gd)
