@@ -1,5 +1,6 @@
 # Tutor Kenya
-#A peer tutoring mobile app connecting students with tutors across Kenya. Students get affordable access to education. Tutors earn income.
+
+A peer-peer mobile app that connects learners with tutors across Kenya. Learners get affordable access to education/skills. Tutors earn income.
 
 # App link : https://apkpure.com/tutor-kenya/com.tutorke.tutorkenya
 
