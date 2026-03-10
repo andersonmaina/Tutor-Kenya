@@ -24,7 +24,7 @@ Students finds tutors profile & contacts through the app. Tutors set their own d
 
 ## Investment
 
-We are seeking **KES 150,000** in seed funding.
+We are seeking **KES 65,000** in seed funding.
 
 | Allocation | Details |
 |---|---|
