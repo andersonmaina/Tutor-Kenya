@@ -28,7 +28,7 @@ We are seeking **KES 65,000** in seed funding.
 
 | Allocation | Details |
 |---|---|
-| Hosting | VPS & Web server setup |
+| Hosting | VPS & Playstore|
 | iOS Development | Estimated 1-day build |
 | Infrastructure | Database and production costs |
 | Marketing | User acquisition |
